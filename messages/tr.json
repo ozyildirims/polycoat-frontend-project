@@ -10,11 +10,23 @@
         "description": "POLYCOAT GOODS WHOLESALERS L.L.C. ayrıca Orta Doğu ve Afrika genelinde faaliyet göstermektedir. Üstün kaliteli ürünlerin pazarlanması ve dağıtımı konusunda uzmanız.",
         "navigation": "Navigasyon",
         "contactInfo": "İletişim Bilgileri",
+        "location": "Konum",
+        "directLine": "Doğrudan Hat",
+        "electronicSupport": "Elektronik Destek",
         "copyright": "© {year} POLYCOAT GOODS WHOLESALERS L.L.C."
+    },
+    "Metadata": {
+        "title": "POLYCOAT GOODS WHOLESALERS L.L.C. | Küresel Ticaret ve Dağıtım",
+        "description": "Küresel ticaret, pazarlama ve dağıtımda 20 yıllık uzmanlık. Orta Doğu ve Afrika genelinde yüksek kaliteli ürünlerde uzmanlaşmıştır.",
+        "keywords": "Polycoat, Küresel Ticaret, Dağıtım, Toptan Satış, Orta Doğu, Afrika, İthalat, İhracat, Ürünler"
     },
     "Home": {
         "heroTitle": "POLYCOAT GOODS WHOLESALERS L.L.C. Şirketine Hoş Geldiniz",
-        "learnMore": "daha fazla bilgi",
+        "learnMore": "Daha Fazla Bilgi",
+        "discovery": "Keşif Deneyimi",
+        "definingExcellence": "Mükemmelliği Tanımlamak",
+        "enterpriseStrategy": "Kurumsal Strateji",
+        "strategyDesc": "Gelişmekte olan pazarlarda hassas pazarlama ve dağıtım mükemmelliği ile sürdürülebilir küresel ticaret ağları oluşturmak.",
         "stats": [
             "Yüksek Nakliye Ağı",
             "Yükselen başarı",
@@ -29,21 +41,32 @@
             "title": "Harika olduğumuz birkaç şey",
             "items": [
                 {
-                    "title": "uzmanlık",
+                    "title": "Uzmanlık",
                     "content": "Küresel Ticarette 20 Yıllık Uzmanlık"
                 },
                 {
-                    "title": "yüksek standartlar",
+                    "title": "Yüksek Standartlar",
                     "content": "En kaliteli ürünlerin pazarlanması ve dağıtımı konusunda uzmanlaştık."
                 },
                 {
-                    "title": "MENA bölgesinde yerelleşme",
+                    "title": "MENA Bölgesinde Yerelleşme",
                     "content": "POLYCOAT GOODS WHOLESALERS L.L.C. ayrıca Orta Doğu ve Afrika genelinde faaliyet göstermektedir."
                 }
             ]
         },
+        "statsLabels": {
+            "network": "Yüksek Nakliye Ağı",
+            "success": "Yükselen Başarı",
+            "warehouses": "Depolar",
+            "satisfaction": "Yüksek Müşteri Memnuniyeti"
+        },
+        "globalPartners": "Küresel Dağıtım Ortakları",
         "cta": "Ortaklığı Başlat",
-        "newsTitle": "Bizden Son Haberler"
+        "newsTitle": "Bizden Son Haberler",
+        "News": {
+            "updates": "Kurumsal Güncellemeler",
+            "viewAll": "Tüm Analizleri Görüntüle"
+        }
     },
     "About": {
         "title": "Hakkımızda",
@@ -56,33 +79,77 @@
             "title": "Harika olduğumuz birkaç şey",
             "items": [
                 {
-                    "title": "uzmanlık",
+                    "title": "Uzmanlık",
                     "content": "Küresel Ticarette 20 Yıllık Uzmanlık"
                 },
                 {
-                    "title": "yüksek standartlar",
+                    "title": "Yüksek Standartlar",
                     "content": "En kaliteli ürünlerin pazarlanması ve dağıtımı konusunda uzmanlaştık."
                 },
                 {
-                    "title": "MENA bölgesinde yerelleşme",
+                    "title": "MENA Bölgesinde Yerelleşme",
                     "content": "POLYCOAT GOODS WHOLESALERS L.L.C. ayrıca Orta Doğu ve Afrika genelinde faaliyet göstermektedir."
                 }
-            ]
+            ],
+            "core": "Özümüz",
+            "profileHeader": "Kurumsal Profil",
+            "profileSubHeader": "2005'ten beri küresel olarak Profesyonel Pazarlama ve Dağıtım.",
+            "portfolioTitle": "Çeşitli Dağıtım Portföyü"
         }
     },
     "News": {
         "title": "Haberler",
-        "placeholder": "Blog içeriğini daha sonra vereceğim"
+        "subHeader": "Kurumsal Zeka",
+        "readFullStory": "Hikayenin Tamamını Oku",
+        "viewAll": "Tüm Analizleri Görüntüle",
+        "updates": "Kurumsal Güncellemeler",
+        "backToNews": "Haberlere Dön",
+        "shareInsight": "Bu içgörüyü paylaş",
+        "linkCopied": "Bağlantı Kopyalandı!",
+        "discussStrategy": "Stratejiyi Bizimle Tartışın",
+        "placeholder": "Blog içeriğini daha sonra vereceğim",
+        "posts": {
+            "1": {
+                "id": 1,
+                "title": "Önce Yarın: Lojistiğin Geleceği Burada mı?",
+                "category": "Lojistik Zekası",
+                "date": "21 Ara, 2025",
+                "image": "/news_1.png",
+                "content": "Covid-19 pandemisinin neden olduğu son yavaşlamaya ve devam eden tedarik zinciri aksaklıklarına rağmen, strategy& tarafından hazırlanan 'Dijitalleşme Yoluyla Körfez Lojistiğini Modernize Etmek' başlıklı rapora göre, kürkeseş taşımacılık ve lojistik sektörü pazarının 2020'de yaklaşık 8 trilyon dolardan 2025'te yaklaşık 12,8 trilyon dolara güçlü bir şekilde büyümesi bekleniyor.\n\nRapor, bu büyümeyi gelişmekte olan ekonomilerden artan küresel ticaret faaliyetlerine ve emtia ihracatına, daha fazla küresel ve bölgesel ticaret anlaşmasına, e-ticaretin genişlemesine, dünya genelindeki lojistik altyapı yatırımlarına, teknolojik ilerlemelere ve dijitalleşmenin lojistik üzerindeki etkinleştirici ve verimlilik artırıcı etkilerine bağlıyor.\n\nÖzellikle teknoloji, lojistik ve tedarik zinciri üzerinde en zorlayıcı etkiye sahip olmuştur. Edinburgh Business School, Heriot-Watt Üniversitesi Dubai Lojistik Çalışmaları Küresel Direktörü Dr. Shereen Nassar şöyle diyor: 'Nesnelerin İnterneti (IoT), birçok endüstride devrim yaratan etkili teknolojilerden biri olmuştur. Şirketlerin daha çevik ve verimli olmasına yardımcı olmuştur. Bulut teknolojisi ve mobil bilgi işlem de sektör için faydalı olmuş ve planlama, tedarik ve dağıtım gibi yönleri değiştirmiştir. Bulut tabanlı çözümler ayrıca maliyeti en aza indirebilir ve tedarik zinciri yolculuğunun çeşitli bölümleri hakkında gerçek zamanlı veriler sağlayabilir.'\n\nAkıllı analitik destekli gösterge tabloları ise küresel işletmelerin üçüncü taraf lojistik veya 3PL operasyonları ve kendi filo performansları üzerinde görünürlük kazanmasına yardımcı oluyor. Veri analitiği, karar vermeyi iyileştirmek ve optimizasyon fırsatlarını belirlemeye yardımcı olmak için teslimat KPI'larını bir araya getiriyor. Yine de Yapay Zeka (AI), tedarik zinciri endüstrisine fayda sağlayan en büyük trendlerden biri olmaya devam ediyor.\n\nShipsy'nin kurucu ortağı ve CEO'su Soham Chokshi, 'Tedarik zinciri paydaşlarının kendi kendini yöneten ve sürdürülebilir lojistik süreçleri oluşturmasına yardımcı olurken, tahmine dayalı zeka, işletmelerin gecikmeler, istisnalar ve acil durumlar hakkında kritik içgörüler elde ederek proaktif lojistik ağları oluşturmasına olanak tanıyor' diyor. 'Öte yandan blok zinciri, işletmelerin tedarik zinciri ağlarında yüksek düzeyde güven, şeffaflık ve finansal izlenebilirlik sağlamasına olanak tanır' diye ekliyor.\n\nSağlam pazar\nDünya Bankası'nın Lojistik Performans Endeksi'nde küresel olarak 11. sırada yer alan BAE, talep ve arz, sürdürülebilirlik sorunları ve büyümeyi ele almak için teknolojik gelişmeleri benimsemeye odaklanmıştır. DHL Global Forwarding Orta Doğu ve Afrika CEO'su Amadou Diallo şöyle diyor: 'BAE, artan küresel ticaret talebini karşılamak için altyapı ve yol yeteneklerine yatırım yapmaya devam ettiği için bizim için her zaman kilit bir pazar olmuştur.\n\nÜlke ayrıca bölge gibi e-ticarette de bir patlamaya tanıklık ediyor.' Statista'ya göre, KİK'teki e-ticaret pazarı patlama yaşıyor ve 2020'de 24 milyar dolardan 2025'e kadar 50 milyar dolara ulaşması bekleniyor.\n\nDiallo, artan talebin lojistik sağlayıcıları üzerinde 'teknoloji yatırımları ve işgücü esnekliğinin dahil edilmesi yoluyla emek yoğun süreçleri azaltmak için operasyonlarını otomatikleştirme' konusunda muazzam bir baskı oluşturduğunu söylüyor. Müşterilere gönderileri ve tedarik zincirlerini yönetmeleri için daha erişilebilir araçlar sağlamak üzere teknolojiden yararlanıyoruz'.\n\nOtomatik depolama ve geri alma sistemleri, şirketlerin e-ticaretle ilişkili sıkı teslimat sürelerini karşılamalarına yardımcı olmak için envanteri bulmaya, seçmeye ve taşımaya yardımcı olmak için kilit öneme sahiptir. Aramex gibi şirketler de teslim alma ve teslimatta doğruluğu artırmak için teknolojik çözümler sundu.\n\nAramex COO'su Alaa Saoudi, 'Geliştirilmiş ve doğru bir adres sistemiyle son kilometre hizmetini daha da artırmak için what3words ile ortaklık kurduk. Entegrasyon, müşteri deneyimlerini optimize etmek ve daha iyi müşteri hizmeti sunmak isteyen bölgesel KOBİ'leri destekliyor' diyor.\n\nRobotik ve dronlar\nRobotik çözümler de oyunun kurallarını değiştiriyor, diyor Diallo. 'Artan otomasyon, depolarda robotik çözümlerin kullanımını artıracak ve bu da işletmeler için muazzam zaman ve parasal tasarruflarla sonuçlanacak.'\n\nŞirketler ayrıca depo envanter yönetimi için otonom dronlar kullanmayı da düşünüyor. dnata bunlardan biri. Şirket bunları Dubai Uluslararası Havaalanı ve Dubai World Central'daki depolarında piyasaya sürmeyi planlıyor. Dronlar, sevkiyatı yüzde 99,8'e varan doğrulukla izleyerek kabul ve depo envanter süreçlerini dijitalleştirmeyi amaçlıyor. Bir tabletle eşleştiriliyorlar ve canlı envanter verileri sağlıyorlar.\n\nToplanan veriler doğrudan tablette veya bir uygulama aracılığıyla görüntülenebiliyor. dnata Kıdemli Başkan Yardımcısı Guillaume Crozier şöyle diyor: 'Ortağımızın yenilikçi yazılımı, dronların çevreyi haritalandırmasını, envanter verilerini toplamasını, vakaları saymasını, sıcaklığı ölçmesini ve herhangi bir ek aktif altyapıya ihtiyaç duymadan yalnızca kameralarını kullanarak barkodları okumasını sağlıyor.' Şirket ayrıca yeni nesil bir e-ticaret sistemi üzerinde de çalışıyor.\n\nCrozier ekliyor: 'Müşteriler, platformu API'ler (uygulama programlama arayüzleri) aracılığıyla mevcut iş akışlarına entegre edebilecek ve kendi sistemlerini kullanırken tüm yenilikçi işlevlerden yararlanabilecekler. Platform ayrıca müşterilerin birden fazla sisteme yatırım yapmadan mevcut süreçleri basitleştirmesine yardımcı olacak. Ayrıca, iş birliği ve otomasyon yoluyla kağıtsız ve nakitsiz ticareti teşvik ederek sürdürülebilirliği artıracak.'\n\nE-ticaret sitelerinden ve KOBİ'lerden nakliyecilere, kuryelere ve teslimat hizmetlerine kadar her büyüklükteki şirket lojistik API'lerini kullanmaktan fayda sağlayabilir. API'ler iş çevikliğini artırmak ve müşteri deneyimini geliştirmek için diğer işlevlerin yanı sıra kullanılabilir. Emirates SkyCargo Kıdemli Başkan Yardımcısı Henrik Ambak, API'lerin sistemler arasındaki daha basit etkileşimin yeni sağlayıcıları olduğunu söylüyor. 'Algoritma tabanlı çözümlerle desteklenen ticari süreci (tarife dağıtımı, spot teklifler ve rezervasyon) dijitalleştiriyorlar ve bu da havayollarının ve nakliye ortaklarımızın her bir taşımanın fiyatını optimize etme yeteneğini artırıyor.'\n\nIQ Fulfillment Pazarlama Müdürü Ashrith Sudhir, ileride lojistiğin geleceğinin verimlilik ve eşler arası hizmet odaklı göründüğünü söylüyor. 'Bunlar, otomasyon (depoda, ulaşımda vb.) ve çoklu platform bağlantısına ve uçtan uca planlama döngülerine izin veren IoT gibi teknolojilerle mümkün olacak. Bu tür girişimler, daha iyi kaynak kullanımı, israfın ortadan kaldırılması ve nihayetinde verimli bir küresel tedarik zinciri sağlayacak.'"
+            },
+            "2": {
+                "id": 2,
+                "title": "İş Kuralları",
+                "category": "Kurumsal Mükemmellik",
+                "date": "21 Ara, 2025",
+                "image": "/news_2.png",
+                "content": "İş kuralları, bir kuruluşun birçok yönüne uygulanabilir ve çeşitli şekillerde ifade edilebilir. Genel olarak, iş kuralları, belirli günlük eylemlerin nasıl gerçekleştirilmesi gerektiğine ilişkin belirli talimatları veya kısıtlamaları tanımlar.\n\nÖrneğin, iş kuralları şunları içerebilir:\n\nBelirli bir tutara ulaşan faturaları yalnızca belirli yöneticilerin onaylayabildiği fatura işleme için bir karar alma onay yapısı\nGelir veya giderleri hesaplamak için bir formülün kullanılabileceği hesaplamalar\nBir kuruluşun çalışanlarının tercih edilen bir satıcı listesiyle çalışmasını gerektirdiği politikalar\nİş kuralları süreç uygulamalarından ayrı olarak tasarlandığında, kuruluşların hedeflerine ulaşmada daha hızlı hareket etmelerine ve değişen iş ihtiyaçlarına daha iyi yanıt vermelerine yardımcı olmak için güçlü ve esnek bir yaklaşım sağlar.\n\nİş Kuralları Süreç Otomasyonunu Nasıl Destekler\nUygulamada, iş kuralları her zaman resmi olarak belgelenmeyebilir, ancak birçok kuruluş dijital dönüşüm geçirirken, iş kurallarını tanımlamak ve otomatikleştirmek, kuruluşların hedeflerine daha etkili bir şekilde ulaşmalarına yardımcı olabilir.\n\nGeleneksel otomasyon yöntemleri genellikle iş kurallarının doğrudan süreç iş akışlarına kodlanmasını içerir. Ancak, bu katı süreç tasarımları, bir kuruluşun güncellemeleri hızlı bir şekilde yapma yeteneğini kısıtlayabilir. İş mantığının zamanla değişmesi muhtemel olduğundan, etkilenen tüm uygulamaları bulmak ve özel kod veya süreç tasarımlarında zamana duyarlı güncellemeler yapmak, özellikle birden fazla süreç aynı kuralları çağırıyorsa yıkıcı olabilir. Aynı kuralın biraz farklı şekilde uygulanması ve tutarsız sonuçlara yol açması riski de vardır. Ayrıca, tasarım değişikliklerinin ne kadar hızlı yapılabileceği genellikle teknik personelin veya BT departmanının uygunluğuna bağlıdır.\n\nKuruluşların duyarlı ve çevik kalmasına yardımcı olmak için, bazı süreç otomasyon yazılımları iş kurallarını otomatik süreçlerden bağımsız olarak modelleme yeteneği sunar. Bu, kuruluşların iş mantıklarını süreç mantıklarından ayırmalarına olanak tanır. Başka bir deyişle, personelin her bir süreci tek tek incelemesi ve kuralın her uygulamasını manuel olarak değiştirmesi gerekmez.\n\nAyrıca, iş kuralları, şirketin iş politikalarını yöneten ve muhtemelen programlama becerisine sahip olmayan alan uzmanları için okunması kolay bir formatta sunulur. Bu, geliştiricileri dahil etmeden veya mevcut temel altyapıyı etkilemeden süreçlerde güncellemeler yapmalarına olanak tanır. Bu yaklaşımla, kuruluşlar esnekliği korurken kurumsal politikaları güncellemek için harcanan değerli personel zamanından tasarruf edebilirler.\n\nYaygın İş Kuralı Türleri\nFarklı politika ve karar türlerini hesaba katmak için iş kuralları birden fazla şekilde modellenebilir. İki yaygın iş kuralı türü formül kuralları ve karar tablosu kurallarıdır.\n\nBir formül kuralı, çalışanların hesaplamaları Microsoft Excel'de formül oluşturmaya benzer şekilde kodsuz bir formatta sürdürmelerine olanak tanır. Bir formül tanımlandıktan sonra, birden fazla süreç tasarımında uygun şekilde yeniden kullanılabilir. Formülün güncellenmesi gerekiyorsa, son kullanıcının kodu değiştirmesini veya ilgili her süreci ayrı ayrı ayarlamasını gerektirmeden yalnızca formülün kendisinin değiştirilmesi gerekir. Ortalama, toplam, tarih ve maksimum belirleme gibi birçok standart formül yazılımda zaten yerleşiktir.\n\nBir karar tablosu kuralı, geliştirici olmayanların ilgili koşullu kararları veya 'eğer-öyleyse' mantığını bir elektronik tablo stili tablosu olarak özlü bir şekilde temsil etmesini sağlayan güçlü bir özelliktir. Karar tabloları sütunları koşul olarak kullanırken, satırlar uygun sonuçları belirtir. Onaylar, başvuru kabul kriterleri ve kredi uygunluk kontrolleri, karar tablolarının uygulanabileceği ve alan uzmanlarının kendileri tarafından sahiplenilebileceği genel örneklerdir.\n\nGeleneksel yaklaşımlarda, bu kararlar süreç tasarımlarının bir parçası olarak doğrudan kodlanabilir ve geliştiricilerin ortaya çıktıkça manuel güncellemeler yapmasını gerektiren karmaşık uygulamalara yol açabilir. Karmaşık mantık bir tablo olarak modellendiğinde, hem iş hem de BT için bakımı daha kolay olan çok daha ilişkilendirilebilir ve görsel bir format sağlar."
+            },
+            "3": {
+                "id": 3,
+                "title": "Ticaret İpuçları",
+                "category": "Piyasa Bilgileri",
+                "date": "21 Ara, 2025",
+                "image": "/news_3.png",
+                "content": "Piyasaya yeni başlıyorsanız ve muhtemelen maruz kaldığınız bilgi seliyle piyasa hakkında biraz gerginseniz, burası olmanız gereken doğru yer.\n\nTrilyonlarca doların her gün el değiştirdiği ticaret dünyasına adım atmak biraz bunaltıcı olabilir. Ne yapacağınız ve nereden başlayacağınız geçerli sorulardır ve bu yüzden size sağlam bir başlangıç ​​yapmanız için yapmanız gereken 7 şeyi bir araya getirdik.\n\nKaybetmeyi göze alamayacağınız parayla başlayın\nBütün birikimlerinizi forex hesabınıza en baştan yatırmayın ve tamamıyla işlem yapmaya başlamayın. Yeni başlayan şansı diye bir şey olsa da, deneyimsiz bir tüccar için çok yüksek düzeyde risk demektir.\n\nHer tüccarın, deneyimli olanların bile kayıplarla karşılaştığını unutmayın. Muhtemelen bu kuralın bir istisnası olmayacaksınız. Bu yüzden, çok fazla kaybetmeyi umursamayacağınız bir miktar fazladan parayla plan yapın.\n\nRisk yönetimini ciddiye alın:\nPiyasayı test etmek veya anlamak için hazırlıksız girmenizi önermiyoruz. Forex kariyerinizin başlangıç ​​aşamalarındayken, Zararı Durdur ve Kârı Al işaretlerini ayarlayarak kendinizi riskleri yönetmeye zorlamanız daha da önemlidir. Kalıpları ve kendi ticaret kişiliğinizi kavramaya başladıkça daha fazla şans deneyebilirsiniz.\n\nKendi kayıtlarınızı tutun:\nİşlem platformunuz size işlemlerinizin geçmişini verir ancak bunlar yalnızca sayılar ve grafiklerdir. Daha iyi olmak için neden zarar ettiğinizi veya nasıl kar ettiğinizi hatırlamanız gerekir. Piyasa trendlerini ve kalıplarını kaydetmek isteyeceksiniz.\n\nBunu yapmanın en iyi yolu, tercihen performansınızın ve etkileyen faktörlerin bir analiziyle kendi sözcüklerinizle yapmaktır.\n\nOranların en oynak olduğu zamanlardan kaçının:\nBir işlem seansının başı ve sonu genellikle dalgalanmaya çok yatkındır. Başlangıçta, o zamanlarda işlem yapmamanızı öneririz. Çünkü kar şansı varsa, zarar şansı da eşit derecede vardır.\n\nBiraz deneyim kazandıktan sonra piyasa hareketlerini daha iyi tahmin edebilir ve buna göre strateji oluşturabilirsiniz. Ancak başlangıçta, güvenli oynamanız ve ilk ve son 15-20 dakikayı katılmak yerine gözlemleyerek geçirmeniz önerilir.\n\nDikkatli olun ve neyin işinize yaradığını bulun:\n'İşinize yarayan' derken, grafiklere en iyi odaklanabildiğiniz zaman hangisinin size en uygun olduğunu görmek için farklı zaman dilimlerini (yarı zamanlı bir tüccarsanız) denemeniz gerektiğini kastediyoruz.\n\nAyrıca, hangi döviz çiftlerinin en karlı olduğunu ve ticaret planınıza en uygun olduğunu görün. Benzer şekilde, tüccarların da tercih ettikleri göstergeler vardır. Ayrıca hangisinin piyasayı nasıl etkileyeceğini anlayabileceğiniz kadar sizin için en erişilebilir olduğunu da görmelisiniz.\n\nStratejinizle tutarlı olun\nİşinize yarayacağını düşündüğünüz bir plan bulduğunuzda, ilk belirsizlik işaretinde onu terk etmeyin. Farklı koşullar altında ve iyi bir süre boyunca test edin. Arka arkaya üç kaybeden işleminiz olduysa, bu dördüncüsünü de kaybedeceğiniz anlamına gelmez.\n\nPlanınıza yeteneklerini göstermesi için alan ve zaman tanıyın.\n\nSadece ortalama karınızın ortalama zarardan yüksek olması gerekir\nZamanın sadece %50'sinde haklıysanız, o zamanlarda elde ettiğiniz kar kaybettiğinizden yüksek olduğu sürece, temize çıkmışsınız demektir. Ortalamalara ve uzun vadeye odaklanın. Kısa vadeli kayıplarda paniğe kapılmayın.\n\nTicaret kumar değildir, ancak belirsizlik ve risk unsuru nedeniyle öyle görünebilir. Gerçekten bireysel işlemlerle ilgili değildir. Bunu kendiniz için sürdürülebilir bir kazanç fırsatı haline getirmeniz gerekir. Bunu başarmak için gözlemci, analitik ve tutarlı olmanız gerekir. Bunu kavramayı başardığınızda, aslında deliliğin bir yöntemi olduğunu göreceksiniz."
+            }
+        }
     },
     "Contact": {
-        "title": "İletişim sayfası",
-        "getInTouch": "İletişime geçin",
+        "title": "İletişim Sayfası",
+        "getInTouch": "İletişime Geçin",
+        "getSubHeader": "İletişime geçin",
+        "headquarters": "Merkez Ofisimiz",
+        "directChannels": "Doğrudan Kanallar",
+        "electronicSupport": "Elektronik Destek",
+        "operatingHours": "Çalışma Saatleri",
+        "availability": "Küresel lojistik koordinasyonu için mevcuttur.",
         "locationLabel": "Konum",
         "location": "Alothman Building Eyal Nasser 5 Floor No.-M01 Deira – Dubai",
         "contactUs": "Bize Ulaşın",
         "phone1": "+917 58 578 7302",
         "phone2": "+917 4 325 2274",
-        "email": "info@polycoatwholesalers.com",
+        "email": "info@polycoatco.com",
         "hoursLabel": "Çalışma Saatlerimiz",
         "hours": "PZT-CUM 09:00 – 18:00"
     }

@@ -1,7 +1,6 @@
 import Image from "next/image";
 import { Link } from "@/i18n/routing";
 import { getTranslations } from 'next-intl/server';
-import { blogPosts } from "@/data/blogs";
 
 const HERO_IMAGE = "/hero_corporate.png";
 
@@ -12,6 +11,7 @@ export default async function Home({
 }) {
   const { locale } = await params;
   const t = await getTranslations('Home');
+  const tNews = await getTranslations('News');
 
   return (
     <div className="flex flex-col bg-white">
@@ -28,10 +28,10 @@ export default async function Home({
           <div className="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent"></div>
         </div>
 
-        <div className="container mx-auto px-8 md:px-16 relative z-10">
+        <div className="container mx-auto px-4 md:px-16 relative z-10">
           <div className="max-w-4xl">
             <div className="reveal-up stagger-1 mb-8">
-              <h1 className="text-6xl md:text-8xl font-bold text-white mb-8 leading-[0.9] tracking-tighter">
+              <h1 className="text-4xl md:text-8xl font-bold text-white mb-8 leading-[0.9] tracking-tighter">
                 {t('heroTitle').split(' ').map((word: string, i: number) => (
                   <span key={i} className={word.toUpperCase() === 'POLYCOAT' ? 'text-secondary block' : ''}>
                     {word}{' '}
@@ -51,14 +51,14 @@ export default async function Home({
 
               <div className="flex items-center space-x-4 opacity-70 hover:opacity-100 transition-opacity">
                 <div className="w-12 h-px bg-white/30"></div>
-                <span className="text-white/60 text-[10px] font-bold uppercase tracking-widest italic">Global Distribution Partners</span>
+                <span className="text-white/60 text-[10px] font-bold uppercase tracking-widest italic">{t('globalPartners')}</span>
               </div>
             </div>
           </div>
         </div>
       </section>
 
-      <section className="py-24 bg-white relative z-20 -mt-12 container mx-auto px-8 md:px-16">
+      <section className="py-24 bg-white relative z-20 -mt-12 container mx-auto px-4 md:px-16">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-px bg-border rounded-2xl overflow-hidden shadow-premium">
           {t.raw('stats').map((stat: string, i: number) => {
             const icons = [
@@ -88,7 +88,7 @@ export default async function Home({
 
       {/* About Us Section - Premium Editorial Layout */}
       <section className="py-32 bg-white">
-        <div className="container mx-auto px-8 md:px-16">
+        <div className="container mx-auto px-4 md:px-16">
           <div className="flex flex-col lg:flex-row items-center gap-24">
             <div className="lg:w-1/2 order-2 lg:order-1">
               <div className="relative h-[650px] w-full reveal-scale group">
@@ -96,15 +96,15 @@ export default async function Home({
                   src="/banner_about.png"
                   alt="About POLYCOAT"
                   fill
-                  className="object-cover rounded-sm grayscale group-hover:grayscale-0 transition-all duration-1000"
+                  className="object-cover rounded-sm transition-all duration-1000"
                 />
                 <div className="absolute -bottom-8 -right-8 w-64 h-64 bg-secondary/10 -z-10 rounded-full blur-3xl"></div>
               </div>
             </div>
 
             <div className="lg:w-1/2 order-1 lg:order-2">
-              <span className="inline-block text-secondary font-black text-[10px] tracking-[0.5em] uppercase mb-8 border-b border-secondary/30 pb-2">Defining Excellence</span>
-              <h2 className="text-5xl md:text-7xl font-bold text-primary mb-10 leading-[1.1]">
+              <span className="inline-block text-secondary font-black text-[10px] tracking-[0.5em] uppercase mb-8 border-b border-secondary/30 pb-2">{t('definingExcellence')}</span>
+              <h2 className="text-4xl md:text-7xl font-bold text-primary mb-10 leading-[1.1]">
                 {t('aboutSection.title')}
               </h2>
               <div className="space-y-8 mb-12">
@@ -116,7 +116,7 @@ export default async function Home({
                 </p>
               </div>
               <Link href="/about" className="inline-flex items-center space-x-6 text-primary font-black uppercase text-[11px] tracking-[0.3em] group">
-                <span>Discovery Experience</span>
+                <span>{t('discovery')}</span>
                 <div className="w-12 h-12 rounded-full border border-primary/10 flex items-center justify-center group-hover:bg-primary group-hover:text-white transition-all duration-500">
                   <span className="group-hover:translate-x-1 transition-transform">→</span>
                 </div>
@@ -132,19 +132,19 @@ export default async function Home({
         <div className="absolute inset-0 opacity-[0.03]" style={{ backgroundImage: 'radial-gradient(circle at 2px 2px, #c92121 1px, transparent 0)', backgroundSize: '40px 40px' }}></div>
         <div className="absolute top-0 right-0 w-1/3 h-full bg-gradient-to-l from-secondary/[0.03] to-transparent"></div>
 
-        <div className="container mx-auto px-8 md:px-16 relative z-10">
+        <div className="container mx-auto px-4 md:px-16 relative z-10">
           <div className="flex flex-col lg:flex-row items-end justify-between mb-32 gap-12">
             <div className="max-w-2xl">
               <div className="flex items-center space-x-4 mb-6 reveal-up">
                 <span className="w-8 h-px bg-secondary"></span>
-                <span className="text-secondary font-black text-[10px] tracking-[0.4em] uppercase">Enterprise Strategy</span>
+                <span className="text-secondary font-black text-[10px] tracking-[0.4em] uppercase">{t('enterpriseStrategy')}</span>
               </div>
-              <h2 className="text-5xl md:text-7xl font-bold text-primary tracking-tight leading-none reveal-up">
+              <h2 className="text-4xl md:text-7xl font-bold text-primary tracking-tight leading-none reveal-up">
                 {t('expertiseSection.title')}
               </h2>
             </div>
             <div className="lg:max-w-xs text-primary/60 text-sm font-light leading-relaxed border-l border-primary/10 pl-8 reveal-up stagger-1">
-              Building sustainable global trade networks through precision marketing and distribution excellence across emerging markets.
+              {t('strategyDesc')}
             </div>
           </div>
 
@@ -186,18 +186,19 @@ export default async function Home({
 
       {/* Latest News Footer - Refined Grid */}
       <section className="py-32 bg-white">
-        <div className="container mx-auto px-8 md:px-16">
+        <div className="container mx-auto px-4 md:px-16">
           <div className="flex flex-col md:flex-row justify-between items-end mb-20">
             <div className="max-w-xl">
-              <span className="text-secondary font-bold text-[10px] tracking-[0.5em] uppercase mb-4 block">Corporate Updates</span>
-              <h2 className="text-4xl md:text-5xl font-bold text-primary">{t('newsTitle')}</h2>
+              <span className="text-secondary font-bold text-[10px] tracking-[0.5em] uppercase mb-4 block">{t('News.updates')}</span>
+              <h2 className="text-3xl md:text-5xl font-bold text-primary">{t('newsTitle')}</h2>
             </div>
-            <Link href="/news" className="text-[10px] font-black uppercase tracking-[0.3em] text-primary border-b-2 border-secondary pb-2 mt-8 md:mt-0">View All Insights</Link>
+            <Link href="/news" className="text-[10px] font-black uppercase tracking-[0.3em] text-primary border-b-2 border-secondary pb-2 mt-8 md:mt-0">{t('News.viewAll')}</Link>
           </div>
 
 
+
           <div className="grid grid-cols-1 md:grid-cols-3 gap-16">
-            {blogPosts.map((post) => (
+            {Object.values(tNews.raw('posts')).map((post: any) => (
               <Link key={post.id} href={`/news/${post.id}`} className="group cursor-pointer">
                 <div className="relative h-80 w-full overflow-hidden mb-8 shadow-premium">
                   <Image

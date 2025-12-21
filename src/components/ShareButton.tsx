@@ -1,9 +1,11 @@
 'use client';
 
 import { useState } from 'react';
+import { useTranslations } from 'next-intl';
 
 export default function ShareButton() {
     const [copied, setCopied] = useState(false);
+    const t = useTranslations('News');
 
     const handleCopy = () => {
         navigator.clipboard.writeText(window.location.href);
@@ -28,7 +30,7 @@ export default function ShareButton() {
                 )}
             </div>
             <span className={`text-primary font-bold text-xs uppercase tracking-widest transition-opacity duration-300 ${copied ? 'text-green-600' : ''}`}>
-                {copied ? 'Link Copied!' : 'Share this insight'}
+                {copied ? t('linkCopied') : t('shareInsight')}
             </span>
         </button>
     );
