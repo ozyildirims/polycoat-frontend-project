@@ -1,0 +1,89 @@
+{
+    "Navbar": {
+        "home": "Anasayfa",
+        "about": "Hakkımızda",
+        "news": "Haberler",
+        "contact": "İletişim",
+        "cta": "İletişime Geçin"
+    },
+    "Footer": {
+        "description": "POLYCOAT GOODS WHOLESALERS L.L.C. ayrıca Orta Doğu ve Afrika genelinde faaliyet göstermektedir. Üstün kaliteli ürünlerin pazarlanması ve dağıtımı konusunda uzmanız.",
+        "navigation": "Navigasyon",
+        "contactInfo": "İletişim Bilgileri",
+        "copyright": "© {year} POLYCOAT GOODS WHOLESALERS L.L.C."
+    },
+    "Home": {
+        "heroTitle": "POLYCOAT GOODS WHOLESALERS L.L.C. Şirketine Hoş Geldiniz",
+        "learnMore": "daha fazla bilgi",
+        "stats": [
+            "Yüksek Nakliye Ağı",
+            "Yükselen başarı",
+            "Depolar",
+            "Yüksek Müşteri memnuniyeti"
+        ],
+        "aboutSection": {
+            "title": "Hakkımızda",
+            "content": "Ürünlerimizle gurur duyuyoruz ve size 20 yılı aşkın süredir bizi gururlandıran aynı kalite ve yüksek standartları getirmeye çalışıyoruz. Sektörde model olup, pazardaki gelişmelere paralel olarak ilerliyoruz. POLYCOAT GOODS WHOLESALERS L.L.C. ayrıca Orta Doğu ve Afrika genelinde faaliyet göstermektedir. Üstün kaliteli ürünlerin pazarlanması ve dağıtımı konusunda uzmanız."
+        },
+        "expertiseSection": {
+            "title": "Harika olduğumuz birkaç şey",
+            "items": [
+                {
+                    "title": "uzmanlık",
+                    "content": "Küresel Ticarette 20 Yıllık Uzmanlık"
+                },
+                {
+                    "title": "yüksek standartlar",
+                    "content": "En kaliteli ürünlerin pazarlanması ve dağıtımı konusunda uzmanlaştık."
+                },
+                {
+                    "title": "MENA bölgesinde yerelleşme",
+                    "content": "POLYCOAT GOODS WHOLESALERS L.L.C. ayrıca Orta Doğu ve Afrika genelinde faaliyet göstermektedir."
+                }
+            ]
+        },
+        "cta": "Ortaklığı Başlat",
+        "newsTitle": "Bizden Son Haberler"
+    },
+    "About": {
+        "title": "Hakkımızda",
+        "content": "Ürünlerimizle gurur duyuyoruz ve size 20 yılı aşkın süredir bizi gururlandıran aynı kalite ve yüksek standartları getirmeye çalışıyoruz. Sektörde model olup, pazardaki gelişmelere paralel olarak ilerliyoruz. POLYCOAT GOODS WHOLESALERS L.L.C. ayrıca Orta Doğu ve Afrika genelinde faaliyet göstermektedir. Üstün kaliteli ürünlerin pazarlanması ve dağıtımı konusunda uzmanız.",
+        "productRange": {
+            "title": "Ürün yelpazemiz",
+            "content": "Gıda maddeleri, İçecekler, Tıbbi ve Medikal Ekipmanlar, Cerrahi Aletler, Mobilyalar, Yedek Parçalar, İnşaat ve İnşaat Ekipmanları, Seramik, Parke, Duvar Kağıtları, Ofis Malzemeleri, Aydınlatma, Boya Sökücüler, Boya Sanayi İçin Fırça ve Rulolar, Plastik, Elektrik Ekipmanları , Spor Malzemeleri, Tekstil, Otel Malzemeleri, Dezenfektan ve Dezenfektan Standları, Deterjan, Kişisel ve Ev Temizlik Ürünleri, Evcil Hayvan Malzemeleri ve çok daha fazlası.. Ayrıca müşterilerimizin isteği doğrultusunda tedarik sağlıyoruz."
+        },
+        "expertiseSection": {
+            "title": "Harika olduğumuz birkaç şey",
+            "items": [
+                {
+                    "title": "uzmanlık",
+                    "content": "Küresel Ticarette 20 Yıllık Uzmanlık"
+                },
+                {
+                    "title": "yüksek standartlar",
+                    "content": "En kaliteli ürünlerin pazarlanması ve dağıtımı konusunda uzmanlaştık."
+                },
+                {
+                    "title": "MENA bölgesinde yerelleşme",
+                    "content": "POLYCOAT GOODS WHOLESALERS L.L.C. ayrıca Orta Doğu ve Afrika genelinde faaliyet göstermektedir."
+                }
+            ]
+        }
+    },
+    "News": {
+        "title": "Haberler",
+        "placeholder": "Blog içeriğini daha sonra vereceğim"
+    },
+    "Contact": {
+        "title": "İletişim sayfası",
+        "getInTouch": "İletişime geçin",
+        "locationLabel": "Konum",
+        "location": "Alothman Building Eyal Nasser 5 Floor No.-M01 Deira – Dubai",
+        "contactUs": "Bize Ulaşın",
+        "phone1": "+917 58 578 7302",
+        "phone2": "+917 4 325 2274",
+        "email": "info@polycoatwholesalers.com",
+        "hoursLabel": "Çalışma Saatlerimiz",
+        "hours": "PZT-CUM 09:00 – 18:00"
+    }
+}

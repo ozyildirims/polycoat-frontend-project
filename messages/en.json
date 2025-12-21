@@ -1,0 +1,89 @@
+{
+    "Navbar": {
+        "home": "Home",
+        "about": "About",
+        "news": "News",
+        "contact": "Contact",
+        "cta": "Get in Touch"
+    },
+    "Footer": {
+        "description": "POLYCOAT GOODS WHOLESALERS L.L.C. operates across the Middle East and Africa. We are specialized in the marketing and distribution of top-quality products.",
+        "navigation": "Navigation",
+        "contactInfo": "Contact Info",
+        "copyright": "© {year} POLYCOAT GOODS WHOLESALERS L.L.C."
+    },
+    "Home": {
+        "heroTitle": "Welcome To POLYCOAT GOODS WHOLESALERS L.L.C.",
+        "learnMore": "learn more",
+        "stats": [
+            "High Transportation Network",
+            "Rising success",
+            "Warehouses",
+            "High Customer satisfaction"
+        ],
+        "aboutSection": {
+            "title": "About Us",
+            "content": "We take pride in our products, and we strive to bring you the same quality and high standards that have made us proud over 20 years. Being a model in the sector and we are progressing with the developments in the market. POLYCOAT GOODS WHOLESALERS L.L.C. also operates across the Middle East and Africa. We are specialized in the marketing and distribution of top-quality products."
+        },
+        "expertiseSection": {
+            "title": "A few things we’re great at",
+            "items": [
+                {
+                    "title": "expertise",
+                    "content": "20 Years of expertise on Global Trading"
+                },
+                {
+                    "title": "high standards",
+                    "content": "We are specialized in the marketing and distribution of top-quality products."
+                },
+                {
+                    "title": "Localization in mena region",
+                    "content": "POLYCOAT GOODS WHOLESALERS L.L.C. also operates across the Middle East and Africa."
+                }
+            ]
+        },
+        "cta": "Initiate Partnership",
+        "newsTitle": "Latest News From Us"
+    },
+    "About": {
+        "title": "About Us",
+        "content": "We take pride in our products, and we strive to bring you the same quality and high standards that have made us proud over 20 years. Being a model in the sector and we are progressing with the developments in the market. POLYCOAT GOODS WHOLESALERS L.L.C. also operates across the Middle East and Africa. We are specialized in the marketing and distribution of top-quality products.",
+        "productRange": {
+            "title": "Our product range",
+            "content": "Foodstuff, Beverages, Medical and Medical Equipments, Surgical Instruments, Furnitures, Spare Parts, Construction and Construction Equipments, Ceramics, Parquest, Wall Papers, Office Items, Lightening, Paint Removers, Brushes and Rolls for Paint Industry, Plastic, Electricity Equipments, Sports Items, Textile, Hotel Supplies, Disinfectation and Disinfectation Stands, Detergent, Personnel and Home Cleaning Items, Pet Supplies, and many more.. We also supply as our customers requested."
+        },
+        "expertiseSection": {
+            "title": "A few things we’re great at",
+            "items": [
+                {
+                    "title": "expertise",
+                    "content": "20 Years of expertise on Global Trading"
+                },
+                {
+                    "title": "high standards",
+                    "content": "We are specialized in the marketing and distribution of top-quality products."
+                },
+                {
+                    "title": "Localization in mena region",
+                    "content": "POLYCOAT GOODS WHOLESALERS L.L.C. also operates across the Middle East and Africa."
+                }
+            ]
+        }
+    },
+    "News": {
+        "title": "News Page",
+        "placeholder": "I will give the blog content later"
+    },
+    "Contact": {
+        "title": "Contact page",
+        "getInTouch": "Get in touch",
+        "locationLabel": "Location",
+        "location": "Alothman Building Eyal Nasser 5 Floor No.-M01 Deira – Dubai",
+        "contactUs": "Contact Us",
+        "phone1": "+917 58 578 7302",
+        "phone2": "+917 4 325 2274",
+        "email": "info@polycoatwholesalers.com",
+        "hoursLabel": "Our Hours",
+        "hours": "MON-FRI 09:00 – 18:00"
+    }
+}

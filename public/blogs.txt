@@ -1,0 +1,111 @@
+1)
+title: Tomorrow first: Is the future of logistics here?
+content: Despite the recent slowdown caused by the Covid-19 pandemic and ongoing supply chain disruptions, the global transport and logistics sector market is set to grow robustly from around $8tn in 2020 to around $12.8tn in 2025, according to a report by strategy& titled, ‘Modernizing Gulf Logistics Through Digitization’.
+
+The report attributes the growth to an increase in global trade activities and commodity exports from developing economies, more global and regional trade-related agreements, the expansion of e-commerce, investments in logistics infrastructure around the world, technological advances, and the enabling and efficiency effects of digitisation on logistics.
+
+Technology, in particular, has had the most compelling impact on logistics and supply chain. Dr Shereen Nassar, global director of  Logistics  Studies, Edinburgh Business School, Heriot-Watt University Dubai, says: “The internet of things (IoT) has been one such impactful technology that has revolutionised many industries. It has helped companies become more agile and efficient. Cloud technology and mobile computing have also been beneficial for the sector and changed aspects such as planning, sourcing and distribution. Cloud-based solutions can also minimise cost and provide real-time data on various parts of the supply chain journey.”
+
+Smart-analytics-powered dashboards, on the other hand, are helping global businesses gain visibility over third party logistics, or 3PL, operations and their own fleet performance. Data analytics aggregate delivery KPIs to improve decision making and help identify optimisation opportunities. Artificial intelligence (AI) though remains one of the biggest trends that has benefitted the supply chain industry.
+
+“It is helping supply chain stakeholders build self-governing and sustainable logistics processes, while predictive intelligence is allowing businesses to build proactive logistics networks by gaining critical insights into delays, exceptions and emergencies,” says Soham Chokshi, CEO and co-founder of Shipsy, a logistics software solutions provider. “On the other hand, blockchain enables businesses to drive high levels of trust, transparency and financial traceability across supply chain networks,” he adds.
+
+Robust market
+The UAE, which ranks 11th globally in the World Bank’s Logistics Performance Index, is focused on adopting technological advancements to tackle demand and supply, sustainability issues and growth. Amadou Diallo, CEO of DHL Global Forwarding, Middle East and Africa, says, “The UAE has always been a key market for us, as it continues to invest in infrastructure and road capabilities to meet the growing demand for global trade.
+
+The country is also witnessing a boom in e-commerce, as is the region.” According to Statista, the e-commerce market in the GCC is booming, expected to grow from $24bn in 2020, to reach $50bn by 2025.
+
+Diallo says the increasing demand has put enormous pressure on logistics providers “to automate their operations to reduce labour-intensive processes via technology investments and the incorporation of workforce flexibility. We are leveraging technology to provide customers with more accessible tools to manage shipments and supply chains”.
+
+Automated storage and retrieval systems have been key to help find, pick and move inventory around to help companies meet the tight delivery deadlines that are associated with e-commerce. Companies such as Aramex have also rolled out technological solutions to improve accuracy in pick-up and delivery.
+
+“We have partnered with what3words to further boost the last-mile service with an improved and accurate address system. The integration supports regional SMEs who are looking to optimise customer experiences and offer better customer service,” says Alaa Saoudi, COO at Aramex.
+
+Robotics and drones
+Robotic solutions are also game-changers, says Diallo. “Increasing automation will drive the use of robotic solutions in warehouses, which will result in enormous time and monetary savings for businesses.”
+
+Companies are also looking to use autonomous drones for warehouse inventory management. dnata is one of them. The company is planning to launch them at its warehouses at Dubai International Airport and Dubai World Central. The drones aim to digitise acceptance and warehouse inventory processes by monitoring shipment with up to 99.8 per cent accuracy. They are paired with a tablet and provide live inventory data.
+
+The collected data can be viewed directly on the tablet or via an app. Guillaume Crozier, senior vice president, dnata, says: “Our partner’s innovative software enables the drones to map the environment, collect inventory data, count cases, measure temperature and read barcodes using only their cameras, without the need for any additional active infrastructure.” The company is also working on a next-generation e-commerce system.
+
+Crozier adds, “Customers will be able to integrate the platform into existing workflows through APIs (application programming interfaces) and take advantage of all innovative functions while using their own system. The platform will also help customers simplify existing processes, without investing in multiple systems. Furthermore, it will enhance sustainability by promoting paperless and cashless trade through collaboration and automation.”
+
+Companies of all sizes – from e-commerce sites and SMEs to shippers, couriers and delivery services – can benefit from using logistics APIs. The APIs can be used to drive business agility and enhance customer experience, among other functions. Henrik Ambak, senior vice president at Emirates SkyCargo, says APIs are the new enablers of simpler interaction between systems. “They are digitalising the commercial process (tariff distribution, spot quotations and booking) which, helped by algorithm-based solutions, enhance the ability for airlines and our forwarding partners to optimise the price of each transport.”
+
+Going forward, the future of logistics seems centred on efficiencies and peer-to-peer servicing, says Ashrith Sudhir, Marketing Manager, IQ Fulfillment. “These will be enabled by technologies such as automation (at the warehouse, transportation, etc.) and IoT that allows multi-platform connectivity and end-to-end planning cycles. Such initiatives will allow for better resource utilisation, waste elimination and ultimately, an efficient global supply chain.”
+
+
+
+
+
+2) 
+title: Business Rules
+content: Business rules can apply to many aspects of an organization and can be expressed in a variety of ways. In general, business rules define specific instructions or constraints on how certain day-to-day actions should be performed.
+
+For example, business rules can include:
+
+A decision-making approval structure for invoice processing where only certain managers can sign off on invoices totaling a specific amount
+Calculations in which a formula may be used to calculate revenue or expenses
+Policies where an organization requires its employees to work with a preferred list of vendors
+When business rules are designed separately from process implementations, they provide a powerful and flexible approach to help organizations move more quickly in meeting their goals and better respond to changing business needs.  
+
+How Business Rules Support Process Automation
+In practice, business rules may not always be formally documented, but as many organizations undergo digital transformation, defining and automating business rules can help organizations more effectively reach their goals.
+
+Traditional automation methods often involve hard-coding business rules directly within process workflows. However, these rigid process designs may restrict an organization’s ability to quickly make updates. Given that business logic is likely to change over time, it can be disruptive to find all the affected implementations and make time-sensitive updates to custom code or process designs, especially if multiple processes call on the same rules. There is also the potential risk of the same rule being implemented slightly differently, leading to inconsistent outcomes. Furthermore, how quickly design changes can be made often depends on the availability of technical staff or the IT department.
+
+To help organizations remain responsive and agile, some process automation software offers the capability to model business rules independently from automated processes. This allows organizations to separate their business logic from their process logic. In other words, staff do not need to go one-by-one through each process and change each implementation of the rule manually.
+
+Furthermore, business rules are made available in an easy-to-read format for the domain experts who manage the company’s business policies and likely do not having programming skills. This allows them to make updates to processes without involving developers or impacting the core infrastructure in place. With this approach, organizations are effectively able to maintain flexibility while saving valuable staff time spent updating organizational policies.
+
+Common Types of Business Rules
+To account for different types of policies and decisions, business rules can be modeled in multiple ways. Two common types of business rules are formula rules and decision table rules.
+
+A formula rule allows employees to maintain calculations in a no-code format, similar to creating formulas in Microsoft Excel. Once a formula is defined, it can be reused as appropriate in multiple process designs. If the formula needs to be updated, only the formula itself needs to be changed without requiring an end user to manipulate code or individually adjust each applicable process. Many standard formulas are already built into the software, such as determining an average, sum, date, and maximum, among many others.
+
+A decision table rule is a powerful feature that lets non-developers represent related conditional decisions or “if-then” logic in a concise manner as a spreadsheet style-table. Decision tables use columns as the conditions, while rows specify the appropriate outcomes. Approvals, application acceptance criteria, and loan eligibility checks are all general examples where decision tables can be applied and owned by the domain experts themselves.
+
+In traditional approaches, these decisions can be hard-coded directly as part of process designs, leading to complex implementations that require developers to make manual updates as they arise. When complex logic is modeled as a table, it provides a much more relatable and visual format that is easier to maintain for both business and IT.
+
+
+
+3)
+title: Trading Hints
+content: If you are just starting out and a little nervous about the market with the information flood that you have probably exposed yourself to, this is the right place for you to be.
+
+Stepping into the world of trading where trillions of dollars are exchanging hands every day, it can get a bit overwhelming. What to do and where to begin are all valid questions and so we have put together a list of 7 dos to give you a solid start.
+
+ Start out with money you will not get broke without
+Don’t put all your savings into your forex account right from the get go and start trading with all of it. While beginner’s luck might just exist, it is a very high level of risk for an inexperienced trader.
+
+Remember that every trader faces losses, even experienced ones. You will most likely not be an exception to this rule. So, plan with some surplus money that you will not mind losing too much.
+
+Take risk management seriously:
+We don’t recommend going in without preparation to test the market out or understand it. When you’re in the beginning phases of your career in forex, it is all the more important to force yourself to manage risks by setting Stop Loss and Take Profit marks. You can start taking more chances as you get the hang of patterns and your own trading personality.
+
+
+ Maintain your own records:
+Your trading platform gives you a history of your trades but they are only numbers and graphs. In order to get better you need to remember why you incurred a loss or how you made a profit. You would want to keep records of market trends and patterns.
+
+The best way to do it is in your own words preferably with an analysis of your performance and the influencing factors.
+
+Avoid times when rates are the most volatile:
+The beginning of a trading session and the end are usually very fluctuation prone. At the beginning, we recommend you don’t trade at those times. This is because if there’s a chance for profit, there is equally the chance for a loss.
+
+
+Once you gain a bit of experience you will be able to better predict market movements and strategize accordingly. In the beginning, however, it is advised to play it safe and use the first and last 15-20 minutes or so observing instead of participating.
+
+Be observant and figure out what works for you:
+By ‘what works for you’ we mean that you should try out different time slots (if you’re a part time trader) to see which one suits you the best when you can focus on charts the best.
+
+Also, see which currency pairs are the most profitable and fit best with your trading plan. Similarly, traders also have their preferred indicators. You should also see which one is the most accessible to you in that you can understand how it will affect the market.
+
+Be consistent with your strategy
+Once you’ve come up with a plan that you think will work for you, don’t abandon it at the first sign of uncertainty. Test it out under different conditions and over a good period of time. If you’ve had three losing trades in a row, it doesn’t mean you will lose the fourth one too.
+
+Give your plan the space and time to show its abilities.
+
+Only your average profit needs to b higher than average loss
+If you’re right only 50% of the time, as long as the profit you made those times is higher than what you lost, you’re in the clear. Focus on the averages and the long term. Don’t get panicked by short term losses.
+
+Trading is not gambling, though it might seem like it due to the element of uncertainty and risk. It is really not about individual trades. You need to make it a sustainable earning opportunity for you. To achieve this you need to be observant, analytical, and consistent. Once you are able to get the hang of this, you will see that there is in fact a method to the madness after all.
