@@ -42,7 +42,7 @@ export default async function Home({
               </h1>
             </div>
 
-            <div className="flex flex-col sm:flex-row items-center gap-8 reveal-up stagger-2">
+            <div className="flex flex-col sm:flex-row items-start sm:items-center gap-8 reveal-up stagger-2">
               <Link
                 href="/about"
                 className="group relative px-12 py-5 bg-secondary text-white font-black text-xs uppercase tracking-[0.2em] overflow-hidden transition-all hover:pr-16"
