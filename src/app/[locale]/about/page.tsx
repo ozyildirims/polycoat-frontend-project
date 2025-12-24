@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { getTranslations } from 'next-intl/server';
 
-const HERO_IMAGE = "/banner_about.png";
+const HERO_IMAGE = "/banner_about.webp";
 
 export default async function About() {
     const t = await getTranslations('About');
@@ -16,6 +16,9 @@ export default async function About() {
                         alt="About POLYCOAT"
                         fill
                         className="object-cover brightness-[0.45] scale-105"
+                        priority
+                        quality={75}
+                        sizes="100vw"
                     />
                     <div className="absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-white to-transparent"></div>
                 </div>

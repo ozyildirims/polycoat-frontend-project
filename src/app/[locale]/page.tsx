@@ -2,7 +2,7 @@ import Image from "next/image";
 import { Link } from "@/i18n/routing";
 import { getTranslations } from 'next-intl/server';
 
-const HERO_IMAGE = "/hero_corporate.png";
+const HERO_IMAGE = "/hero_corporate.webp";
 
 export default async function Home({
   params
@@ -24,6 +24,8 @@ export default async function Home({
             fill
             className="object-cover brightness-[0.45] scale-105"
             priority
+            quality={75}
+            sizes="100vw"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-primary/80 via-transparent to-transparent"></div>
         </div>
@@ -93,10 +95,13 @@ export default async function Home({
             <div className="lg:w-1/2 order-2 lg:order-1">
               <div className="relative h-[650px] w-full reveal-scale group">
                 <Image
-                  src="/banner_about.png"
+                  src="/banner_about.webp"
                   alt="About POLYCOAT"
                   fill
                   className="object-cover rounded-sm transition-all duration-1000"
+                  quality={75}
+                  sizes="(max-width: 768px) 100vw, 50vw"
+                  loading="lazy"
                 />
                 <div className="absolute -bottom-8 -right-8 w-64 h-64 bg-secondary/10 -z-10 rounded-full blur-3xl"></div>
               </div>
@@ -206,6 +211,9 @@ export default async function Home({
                     alt={post.title}
                     fill
                     className="object-cover transition-transform duration-1000 group-hover:scale-110 brightness-90 group-hover:brightness-100"
+                    quality={75}
+                    sizes="(max-width: 768px) 100vw, 33vw"
+                    loading="lazy"
                   />
                   <div className="absolute inset-x-0 bottom-0 p-8 transform translate-y-full group-hover:translate-y-0 transition-transform duration-500 bg-gradient-to-t from-primary/90 to-transparent">
                     <span className="text-white text-[10px] font-bold uppercase tracking-widest border border-white/30 px-3 py-1">{post.category}</span>

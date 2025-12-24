@@ -11,11 +11,13 @@ export default async function News() {
             <section className="relative h-[60vh] flex items-center overflow-hidden">
                 <div className="absolute inset-0 z-0">
                     <Image
-                        src="/banner_news_v2.png"
+                        src="/banner_news_v2.webp"
                         alt="Corporate Intelligence"
                         fill
                         className="object-cover brightness-[0.45]"
                         priority
+                        quality={75}
+                        sizes="100vw"
                     />
                     <div className="absolute inset-x-0 bottom-0 h-32 bg-gradient-to-t from-white to-transparent"></div>
                 </div>
@@ -38,6 +40,9 @@ export default async function News() {
                                         alt={post.title}
                                         fill
                                         className="object-cover transition-transform duration-1000 group-hover:scale-105"
+                                        quality={75}
+                                        sizes="(max-width: 768px) 100vw, 50vw"
+                                        loading="lazy"
                                     />
                                     <div className="absolute top-8 left-8">
                                         <span className="bg-secondary text-white text-[10px] font-black uppercase tracking-widest px-4 py-2 rounded-full">
