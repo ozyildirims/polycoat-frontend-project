@@ -89,11 +89,11 @@ export default async function Home({
       </section>
 
       {/* About Us Section - Premium Editorial Layout */}
-      <section className="py-32 bg-white">
+      <section className="py-16 md:py-32 bg-white">
         <div className="container mx-auto px-4 md:px-16">
-          <div className="flex flex-col lg:flex-row items-center gap-24">
-            <div className="lg:w-1/2 order-2 lg:order-1">
-              <div className="relative h-[650px] w-full reveal-scale group">
+          <div className="flex flex-col lg:flex-row items-center gap-12 lg:gap-24">
+            <div className="hidden lg:block lg:w-1/2 order-2 lg:order-1">
+              <div className="relative h-[300px] lg:h-[650px] w-full reveal-scale group">
                 <Image
                   src="/banner_about.webp"
                   alt="About POLYCOAT"
@@ -108,11 +108,11 @@ export default async function Home({
             </div>
 
             <div className="lg:w-1/2 order-1 lg:order-2">
-              <span className="inline-block text-secondary font-black text-[10px] tracking-[0.5em] uppercase mb-8 border-b border-secondary/30 pb-2">{t('definingExcellence')}</span>
-              <h2 className="text-4xl md:text-7xl font-bold text-primary mb-10 leading-[1.1]">
+              <span className="inline-block text-secondary font-black text-[10px] tracking-[0.5em] uppercase mb-4 md:mb-8 border-b border-secondary/30 pb-2">{t('definingExcellence')}</span>
+              <h2 className="text-4xl md:text-7xl font-bold text-primary mb-6 md:mb-10 leading-[1.1]">
                 {t('aboutSection.title')}
               </h2>
-              <div className="space-y-8 mb-12">
+              <div className="space-y-4 md:space-y-8 mb-8 md:mb-12">
                 <p className="text-xl text-primary/80 font-medium leading-relaxed italic border-l-4 border-secondary/20 pl-8">
                   {t('aboutSection.content').substring(0, 160)}...
                 </p>
@@ -132,13 +132,13 @@ export default async function Home({
       </section>
 
       {/* Expertise Section - Premium Corporate Elegance (Light) */}
-      <section className="py-40 bg-white relative overflow-hidden">
+      <section className="py-16 md:py-40 bg-white relative overflow-hidden">
         {/* Subtle Background Pattern */}
         <div className="absolute inset-0 opacity-[0.03]" style={{ backgroundImage: 'radial-gradient(circle at 2px 2px, #c92121 1px, transparent 0)', backgroundSize: '40px 40px' }}></div>
         <div className="absolute top-0 right-0 w-1/3 h-full bg-gradient-to-l from-secondary/[0.03] to-transparent"></div>
 
         <div className="container mx-auto px-4 md:px-16 relative z-10">
-          <div className="flex flex-col lg:flex-row items-end justify-between mb-32 gap-12">
+          <div className="flex flex-col lg:flex-row items-end justify-between mb-12 md:mb-32 gap-12">
             <div className="max-w-2xl">
               <div className="flex items-center space-x-4 mb-6 reveal-up">
                 <span className="w-8 h-px bg-secondary"></span>
@@ -190,9 +190,9 @@ export default async function Home({
       </section>
 
       {/* Latest News Footer - Refined Grid */}
-      <section className="py-32 bg-white">
+      <section className="py-16 md:py-32 bg-white">
         <div className="container mx-auto px-4 md:px-16">
-          <div className="flex flex-col md:flex-row justify-between items-end mb-20">
+          <div className="flex flex-col md:flex-row justify-between items-end mb-12 md:mb-20">
             <div className="max-w-xl">
               <span className="text-secondary font-bold text-[10px] tracking-[0.5em] uppercase mb-4 block">{t('News.updates')}</span>
               <h2 className="text-3xl md:text-5xl font-bold text-primary">{t('newsTitle')}</h2>
